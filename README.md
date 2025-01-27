@@ -1,2 +1,2 @@
 # freecodecampprojects
-Aqui estan los proyectos para los cursos de freecodecamp, de los cursos que he realizado.
+Here are the projects for the Freecodecamp courses.
